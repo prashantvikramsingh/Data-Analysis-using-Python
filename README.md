@@ -1,13 +1,10 @@
-# Analysis Report
+# **Question 1**
 
+### *Study the enron scandal data and perform three useful analysis*
 
-**Question 1**
-
-*Study the enron scandal data and perform three useful analysis*
-
-   **Analysis 1**
+   ## **Analysis 1**
     
-   *Investigate the fradulent words usage in emails of top three convicts between 1999-2001*
+   ### *Investigate the fradulent words usage in emails of top three convicts between 1999-2001*
     
    - Read all the emails, present under each and every directory, of top three convicts
    - Created a sample list containing majority of fradulent words used in scams worldwide
