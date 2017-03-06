@@ -13,8 +13,7 @@
 - Displayed the top 5 most used fradulent words by top three convicts
 - Created a graph to display the fradulent words usage in an intuitive manner
 
-![GitHub Logo](/midterm/que1/ana_1/Top five Fradulent words distribution.jpeg)
-Format: ![Alt Text](url)
+![Alt Text](https://github.com/prashantvikramsingh/singh_prashant-vikram_spring2017/tree/master/midterm/que1/ana_1/Top five Fradulent words distribution.jpeg)
 
 #### *Conclusion*
     
