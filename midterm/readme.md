@@ -13,13 +13,9 @@
 - Displayed the top 5 most used fradulent words by top three convicts
 - Created a graph to display the fradulent words usage in an intuitive manner
 
-<p align="center">
-  <img src="https://github.com/prashantvikramsingh/singh_prashant-vikram_spring2017/tree/master/midterm/que1/ana_1/Top five Fradulent words distribution.png" width="350"/>
-</p>
-
 #### *Conclusion*
     
-- There was a high usage of few fradulent words like **'investment', 'payment, and 'cover'**
+- There was a high usage of few fradulent words like **'investment', 'payment', and 'cover'**
 - This clearly points to the fact that some discrepancy was going on among top level executives
 
  
