@@ -47,8 +47,8 @@
 ## *Conclusion:*
 ### *It can be seen from the above graphs that:*
 - There are far more successful acts than failed acts. It may mean either :
-- Data is not complete and failed terrorist acts are 100% reported.
-- The high success rate is real.
+   - Data is not complete and failed terrorist acts are 100% reported.
+   - The high success rate is real.
 - I suspect the reality is a mix between the above two reasons. 
 - A failed terrorist acts may not hit the headlines and therefore will be absent from the data.
 
