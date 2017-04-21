@@ -20,9 +20,11 @@
 
 ## *Attack Pattern and Global Terrorism (2001 - 2015)*
 
-![acts death](https://cloud.githubusercontent.com/assets/25044859/25257686/ae348ba8-2607-11e7-8f93-8c7b63985935.png)
+![acts death](https://cloud.githubusercontent.com/assets/25044859/25266787/747a5e86-2640-11e7-9fb0-abe368271036.png)
 
 ![global_terrorism](https://cloud.githubusercontent.com/assets/25044859/25257688/b170a892-2607-11e7-9e1f-d6de583ee29a.png)
+
+![averagenumberofdeaths](https://cloud.githubusercontent.com/assets/25044859/25266795/81e60714-2640-11e7-9daa-99ed01831b0e.png)
 
 ## *Conclusion:*
 ### *It can be seen from the above graphs that:*
@@ -31,6 +33,7 @@
   being more densely populated areas over time.
 - We can see that terrorism is widespread, but judging by where the points are located, 
   and quite obviously, it mostly affects areas that are more densely populated.
+- We can also note, that on average, every terror attack in North America claims 8 lives.
   
   
 # *Analysis 3*
