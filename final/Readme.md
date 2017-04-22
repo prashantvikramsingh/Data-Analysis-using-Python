@@ -2,7 +2,7 @@
 
 ## *Festive vs NonFestive Season Attack in India (2001 - 2015)*
 
-![festivevsnonfestive](https://cloud.githubusercontent.com/assets/25044859/25257503/73abd578-2606-11e7-8627-0530485518c5.png)
+![festivevsnonfestive](https://cloud.githubusercontent.com/assets/25044859/25302634/7db0a796-2710-11e7-9282-f5bd855add50.png)
 
 ## *Conclusion:*
 ### *It can be seen from the above graphs that:*
@@ -20,11 +20,11 @@
 
 ## *Attack Pattern and Global Terrorism (2001 - 2015)*
 
-![acts death](https://cloud.githubusercontent.com/assets/25044859/25266787/747a5e86-2640-11e7-9fb0-abe368271036.png)
+![acts death](https://cloud.githubusercontent.com/assets/25044859/25302636/8f128a4a-2710-11e7-835a-ec18f00a785a.png)
 
-![global_terrorism](https://cloud.githubusercontent.com/assets/25044859/25257688/b170a892-2607-11e7-9e1f-d6de583ee29a.png)
+![averagenumberofdeaths](https://cloud.githubusercontent.com/assets/25044859/25302638/8f14d25a-2710-11e7-8fd0-2ee8be580e83.png)
 
-![averagenumberofdeaths](https://cloud.githubusercontent.com/assets/25044859/25266795/81e60714-2640-11e7-9daa-99ed01831b0e.png)
+![globalterrorism](https://cloud.githubusercontent.com/assets/25044859/25302637/8f14a942-2710-11e7-863e-96bbf7470945.png)
 
 ## *Conclusion:*
 ### *It can be seen from the above graphs that:*
@@ -34,15 +34,32 @@
 - We can see that terrorism is widespread, but judging by where the points are located, 
   and quite obviously, it mostly affects areas that are more densely populated.
 - We can also note, that on average, every terror attack in North America claims 8 lives.
-  
-  
+
+
 # *Analysis 3*
+
+## *Understand who is committing terrorists attacks, and how are they carrying out these attacks (2001 - 2015)*
+
+![terrgroupcounts](https://cloud.githubusercontent.com/assets/25044859/25302643/a6634cca-2710-11e7-96e6-5919c1f74603.png)
+
+![terrgrouppattern](https://cloud.githubusercontent.com/assets/25044859/25302642/a6618700-2710-11e7-8954-87bb2f76783f.png)
+
+## *Conclusion:*
+### *It can be seen from the above graphs that:*
+- There are far more successful acts than failed acts. It may mean either :
+- Data is not complete and failed terrorist acts are 100% reported.
+- The high success rate is real.
+- I suspect the reality is a mix between the above two reasons. 
+- A failed terrorist acts may not hit the headlines and therefore will be absent from the data.
+  
+  
+# *Analysis 4*
 
 ## *Success and Failure of Terrorist Attacks (2001 - 2015)*
 
-![successvsfail](https://cloud.githubusercontent.com/assets/25044859/25257843/070ab620-2609-11e7-9ae2-43c57a4e044c.png)
+![yearwise_attack_comparision](https://cloud.githubusercontent.com/assets/25044859/25302646/bdcbb5f0-2710-11e7-8e1d-329ef84029b1.png)
 
-![successvsfail_country](https://cloud.githubusercontent.com/assets/25044859/25257845/0959c1f0-2609-11e7-9da8-52ea21d4a981.png)
+![countrywise_attack_comparision](https://cloud.githubusercontent.com/assets/25044859/25302650/cc675aec-2710-11e7-91f8-80a90a71929b.png)
 
 ## *Conclusion:*
 ### *It can be seen from the above graphs that:*
@@ -53,28 +70,11 @@
 - A failed terrorist acts may not hit the headlines and therefore will be absent from the data.
 
 
-# *Analysis 4*
-
-## *Understand who is committing terrorists attacks, and how are they carrying out these attacks (2001 - 2015)*
-
-![terrgroupcounts](https://cloud.githubusercontent.com/assets/25044859/25258209/cf233fc2-260b-11e7-8789-a8db3841d687.png)
-
-![terrgrouppattern](https://cloud.githubusercontent.com/assets/25044859/25258213/d5c96f4a-260b-11e7-9fb9-90224c139224.png)
-
-## *Conclusion:*
-### *It can be seen from the above graphs that:*
-- There are far more successful acts than failed acts. It may mean either :
-- Data is not complete and failed terrorist acts are 100% reported.
-- The high success rate is real.
-- I suspect the reality is a mix between the above two reasons. 
-- A failed terrorist acts may not hit the headlines and therefore will be absent from the data.
-
-
 # *Analysis 5*
 
 ## *Target Pattern in Top 4 most affected countries by terrorist attacks (2001 - 2015)*
 
-![top4propertyattack](https://cloud.githubusercontent.com/assets/25044859/25258527/0a5ff114-260e-11e7-9f6d-58d3aadbc187.png)
+![top4propertyattack](https://cloud.githubusercontent.com/assets/25044859/25302652/de9ad59a-2710-11e7-93b6-148b120529da.png)
 
 ## *Conclusion:*
 ### *It can be seen from the above graphs that:*
