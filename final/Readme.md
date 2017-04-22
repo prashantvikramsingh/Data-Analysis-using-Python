@@ -1,3 +1,7 @@
+# INFO 7374 Data Analysis Using Python - Final Project
+
+## Global Terrorism Database (GTD)    
+
 ![global terrorism](https://cloud.githubusercontent.com/assets/25044859/25308316/41ed2fee-277f-11e7-9778-83f140979d11.jpg)
 ##
 The Global Terrorism Database (GTD) is an open-source database including information on terrorist attacks around the world (with annual updates planned for the future). The GTD includes systematic data on domestic as well as international terrorist incidents that have occurred during this time period and now includes more than 150,000 cases. The database is maintained by researchers at the National Consortium for the Study of Terrorism and Responses to Terrorism (START), headquartered at the University of Maryland.
