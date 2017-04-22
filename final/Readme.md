@@ -11,7 +11,7 @@
 - Plotted the graph to help better visualize the above information.
 
 ### *Outputs:*
-- Plot File : [festiveVSnonfestive](https://github.com/prashantvikramsingh/singh_prashant-vikram_spring2017/tree/master/final/analysis/ana_1/festiveVSnonfestive.png)
+- Plot File : [festiveVSnonfestive](https://github.com/prashantvikramsingh/singh_prashant-vikram_spring2017/tree/master/final/analysis/ana_1/png/festiveVSnonfestive.png)
 
 ![festivevsnonfestive](https://cloud.githubusercontent.com/assets/25044859/25302634/7db0a796-2710-11e7-9282-f5bd855add50.png)
 
@@ -40,7 +40,7 @@
 - Plotted the graph to help better visualize the above information.
 
 ### *Outputs:*
-- Plot File : [Attacks&Death](https://github.com/prashantvikramsingh/singh_prashant-vikram_spring2017/tree/master/final/analysis/ana_2/Attacks&Death.png), [AverageNumberofDeaths](https://github.com/prashantvikramsingh/singh_prashant-vikram_spring2017/tree/master/final/analysis/ana_2/AverageNumberofDeaths.png), [GlobalTerrorism](https://github.com/prashantvikramsingh/singh_prashant-vikram_spring2017/tree/master/final/analysis/ana_2/GlobalTerrorism.png)
+- Plot File : [Attacks&Death](https://github.com/prashantvikramsingh/singh_prashant-vikram_spring2017/tree/master/final/analysis/ana_2/png/Attacks&Death.png), [AverageNumberofDeaths](https://github.com/prashantvikramsingh/singh_prashant-vikram_spring2017/tree/master/final/analysis/ana_2/png/AverageNumberofDeaths.png), [GlobalTerrorism](https://github.com/prashantvikramsingh/singh_prashant-vikram_spring2017/tree/master/final/analysis/ana_2/png/GlobalTerrorism.png)
 
 ![acts death](https://cloud.githubusercontent.com/assets/25044859/25302636/8f128a4a-2710-11e7-835a-ec18f00a785a.png)
 
@@ -71,7 +71,7 @@
 - Plotted the graph to help better visualize the above information.
 
 ### *Outputs:*
-- Plot File : [terrgroupcounts](https://github.com/prashantvikramsingh/singh_prashant-vikram_spring2017/tree/master/final/analysis/ana_3/terrgroupcounts.png), [terrgrouppattern](https://github.com/prashantvikramsingh/singh_prashant-vikram_spring2017/tree/master/final/analysis/ana_3/terrgrouppattern.png)
+- Plot File : [terrgroupcounts](https://github.com/prashantvikramsingh/singh_prashant-vikram_spring2017/tree/master/final/analysis/ana_3/png/terrgroupcounts.png), [terrgrouppattern](https://github.com/prashantvikramsingh/singh_prashant-vikram_spring2017/tree/master/final/analysis/ana_3/png/terrgrouppattern.png)
 
 ![terrgroupcounts](https://cloud.githubusercontent.com/assets/25044859/25302643/a6634cca-2710-11e7-96e6-5919c1f74603.png)
 
@@ -103,7 +103,7 @@
 - Plotted the graph to help better visualize the above information.
 
 ### *Outputs:*
-- Plot File : [YearWise_Attack_Comparision](https://github.com/prashantvikramsingh/singh_prashant-vikram_spring2017/tree/master/final/analysis/ana_4/YearWise_Attack_Comparision.png), [CountryWise_Attack_Comparision](https://github.com/prashantvikramsingh/singh_prashant-vikram_spring2017/tree/master/final/analysis/ana_4/CountryWise_Attack_Comparision.png)
+- Plot File : [YearWise_Attack_Comparision](https://github.com/prashantvikramsingh/singh_prashant-vikram_spring2017/tree/master/final/analysis/ana_4/png/YearWise_Attack_Comparision.png), [CountryWise_Attack_Comparision](https://github.com/prashantvikramsingh/singh_prashant-vikram_spring2017/tree/master/final/analysis/ana_4/png/CountryWise_Attack_Comparision.png)
 
 ![yearwise_attack_comparision](https://cloud.githubusercontent.com/assets/25044859/25302646/bdcbb5f0-2710-11e7-8e1d-329ef84029b1.png)
 
@@ -130,7 +130,7 @@
 - Plotted the graph to help better visualize the above information.
 
 ### *Outputs:*
-- Plot File : [top4propertyattack](https://github.com/prashantvikramsingh/singh_prashant-vikram_spring2017/tree/master/final/analysis/ana_5/top4propertyattack.png)
+- Plot File : [top4propertyattack](https://github.com/prashantvikramsingh/singh_prashant-vikram_spring2017/tree/master/final/analysis/ana_5/png/top4propertyattack.png)
 
 ![top4propertyattack](https://cloud.githubusercontent.com/assets/25044859/25302652/de9ad59a-2710-11e7-93b6-148b120529da.png)
 
