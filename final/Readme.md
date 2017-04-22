@@ -48,7 +48,7 @@
 
 ![averagenumberofdeaths](https://cloud.githubusercontent.com/assets/25044859/25302638/8f14d25a-2710-11e7-8fd0-2ee8be580e83.png)
 
-![globalterrorism](https://cloud.githubusercontent.com/assets/25044859/25302637/8f14a942-2710-11e7-863e-96bbf7470945.png)
+![globalterrorism](https://cloud.githubusercontent.com/assets/25044859/25308219/df876366-277d-11e7-8989-3a5f5279588a.png)
 
 ### *Conclusion:*
 #### *It can be seen from the above graphs that:*
