@@ -40,7 +40,7 @@
 - Plotted the graph to help better visualize the above information.
 
 ### *Outputs:*
-- Plot File : [Acts&Death](https://github.com/prashantvikramsingh/singh_prashant-vikram_spring2017/tree/master/final/analysis/ana_2/Acts&Death.png), [AverageNumberofDeaths](https://github.com/prashantvikramsingh/singh_prashant-vikram_spring2017/tree/master/final/analysis/ana_2/AverageNumberofDeaths.png), [GlobalTerrorism](https://github.com/prashantvikramsingh/singh_prashant-vikram_spring2017/tree/master/final/analysis/ana_2/GlobalTerrorism.png)
+- Plot File : [Attacks&Death](https://github.com/prashantvikramsingh/singh_prashant-vikram_spring2017/tree/master/final/analysis/ana_2/Attacks&Death.png), [AverageNumberofDeaths](https://github.com/prashantvikramsingh/singh_prashant-vikram_spring2017/tree/master/final/analysis/ana_2/AverageNumberofDeaths.png), [GlobalTerrorism](https://github.com/prashantvikramsingh/singh_prashant-vikram_spring2017/tree/master/final/analysis/ana_2/GlobalTerrorism.png)
 
 ![acts death](https://cloud.githubusercontent.com/assets/25044859/25302636/8f128a4a-2710-11e7-835a-ec18f00a785a.png)
 
